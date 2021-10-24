@@ -1,3 +1,3 @@
-# Computer-vision-project1 
+Computer vision and image processing projects
 using 
-OpenCV python 
+python 
