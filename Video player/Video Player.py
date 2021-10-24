@@ -1,5 +1,5 @@
 #author: rokon-uz-zaman roman
-#Blank and white image converter
+#Video Player in Python OpenCV and tkinter
 
 import tkinter as tk
 import cv2
