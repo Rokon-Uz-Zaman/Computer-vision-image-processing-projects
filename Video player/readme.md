@@ -3,7 +3,15 @@ Video player using OpenCV python and tkinter
 
 
 
-[Video_player_python.mp4](https://github.com/Rokon-Uz-Zaman/Computer-vision-projects/files/7404732/Video_player_python.mp4)
+
+https://user-images.githubusercontent.com/26451679/138597751-4ef4af06-54fe-44bf-b22c-3152429c9ff5.mp4
+
+
+
+
+
+
+
 
 
 
