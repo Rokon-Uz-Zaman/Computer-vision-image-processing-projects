@@ -10,7 +10,6 @@ import numpy as np
 
 
 
-########## Front End##############
 root=tk.Tk()
 root.geometry("400x300") #window size
 
@@ -46,7 +45,7 @@ def fileUpload():
         #img = cv2.rectangle(img, (50, 50), (700, 600), (0, 200, 250), 10)
         #print(img.shape)
         #font = cv2.FONT_HERSHEY_SIMPLEX
-        #img=cv2.putText(img,'Hi soban',(10,500),font ,4,(0,0,255),10)
+        #img=cv2.putText(img,'Hi This is Rokon-uz-zaman',(10,500),font ,4,(0,0,255),10)
         cv2.imshow('Roman Video Player',img)
         #cv2.imshow('this is gray version j ', img2)
 
