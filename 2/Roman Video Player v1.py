@@ -1,14 +1,10 @@
 #author: rokon-uz-zaman roman
-#Blank and white image converter
+#Blank and white image converter 
 
 import tkinter as tk
 import cv2
 from tkinter import filedialog
-import numpy as np
-import pyautogui 
-
-
-
+import numpy as np 
 
 
 ########## Front End##############
@@ -56,9 +52,9 @@ def fileUpload():
         #img = cv2.circle(img, (400,300), 180, (250, 0, 0), 15)
         #img = cv2.rectangle(img, (50, 50), (700, 600), (0, 200, 250), 10)
         #print(img.shape)
-        #pyautogui.press('w') 
         
         
+     
         font = cv2.FONT_HERSHEY_SIMPLEX
         img=cv2.putText(img,'Roman video player',(5,50),font ,2,(0,0,255),10)
         img=cv2.putText(img,' Q  quit video',(1,500),font ,2,(0,0,255),10)
